@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PratyushNamdev
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c++ and html
-- 💞️ I’m looking to collaborate on html and c++ projects
-- 📫 How to reach me pratyushnamdev140@gmail.com 
+- 👀 I’m an aspiring Web-Develpoer
+- 🌱 Familiar With HTML , CSS , JavaScript , React , MongoDB , SQL , C++ , Java 
+- 💞️ I’m eager to help with open source contribution
+- 📫 Reach me on pratyushnamdev140@gmail.com 
 
 <!---
 PratyushNamdev/PratyushNamdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
